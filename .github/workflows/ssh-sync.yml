@@ -13,7 +13,7 @@ jobs:
         with:
           persist-credentials: fals 
 
-      - name: git-sync github/lxk0301/jd_scripts.git to github with private key
+      - name: git-sync monk-coder to github with private key
         uses: wei/git-sync@v3
         with:
           source_repo: "git@github.com:monk-coder/dust.git"
