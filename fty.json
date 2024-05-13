@@ -3,6 +3,7 @@
 { "url": "http://肥猫.live", "name": "肥猫" },
 { "url": "https://weixine.net/ysc.json", "name": "运输车" },
 { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "盘Down" },
+{ "url": "https://gitee.com/ajouter/sbww/raw/master/tvbox/1.json", "name": "十八弯" },
 { "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json", "name": "4K源" },
 { "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
 { "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
