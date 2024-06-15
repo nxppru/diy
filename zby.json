@@ -1,47 +1,47 @@
 { "urls": 
   [
-   { "url": "https://live.goodiptv.club/api/getlive.php": "name": "推荐直播源" },
-   { "url": "https://live.freetv.top/huyayqk.m3u": "name": "虎牙一起看" },
-   { "url": "https://live.freetv.top/douyuyqk.m3u": "name": "斗鱼一起看" },
-   { "url": "https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top": "name": "YY轮播" },
-   { "url": "https://www.goodiptv.club/bililive.m3u": "name": "BiliBili直播" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u": "name": "精选IPV6源" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u": "name": "4K/8K源" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u": "name": "YQGD源" },
+   { "url": "https://live.goodiptv.club/api/getlive.php", "name": "推荐直播源" },
+   { "url": "https://live.freetv.top/huyayqk.m3u", "name": "虎牙一起看" },
+   { "url": "https://live.freetv.top/douyuyqk.m3u", "name": "斗鱼一起看" },
+   { "url": "https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top", "name": "YY轮播" },
+   { "url": "https://www.goodiptv.club/bililive.m3u", "name": "BiliBili直播" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u", "name": "精选IPV6源" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u", "name": "4K/8K源" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u", "name": "YQGD源" },
 
-   { "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u": "name": "BigBigGrandG源" },
+   { "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u", "name": "BigBigGrandG源" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u": "name": "APTV IPv6" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u": "name": "APTV 回放测试源" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u": "name": "APTV 虎牙" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", "name": "APTV IPv6" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u", "name": "APTV 回放测试源" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u", "name": "APTV 虎牙" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u": "name": "YanG Gather" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u": "name": "YanG 斗鱼" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", "name": "YanG Gather" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u", "name": "YanG 斗鱼" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u": "name": "Meroser精选IPV6源" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u", "name": "Meroser精选IPV6源" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u": "name": "YueChan IPv6" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u": "name": "YueChan Radio" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u", "name": "YueChan IPv6" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u", "name": "YueChan Radio" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u": "name": "whpsky-IPV6" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u": "name": "whpsky-ChinaTVM3u" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt": "name": "whpsky-ChinaTVTxt" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u", "name": "whpsky-IPV6" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u", "name": "whpsky-ChinaTVM3u" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt", "name": "whpsky-ChinaTVTxt" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u": "name": "zbefine-m3u" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt": "name": "zbefine-txt" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u", "name": "zbefine-m3u" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt", "name": "zbefine-txt" },
 
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U": "name": "茶客" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt": "name": "乌云" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u": "name": "AILE-TV" },
-   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio": "name": "TVradio" },
-   { "url": "https://epg.pw/test_channels.m3u": "name": "epg.pw 中国地区可观看" },
-   { "url": "https://epg.pw/test_channels_banned_cn.m3u": "name": "epg.pw 海外地区可观看" },
-   { "url": "https://epg.pw/test_channels_unknown.m3u": "name": "epg.pw 未添加EPG的大杂烩直播源" },
-   { "url": "https://epg.pw/test_channel_page.html?lang=zh-hant": "name": "epg.pw 直播源按分类列表" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U", "name": "茶客" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt", "name": "乌云" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u", "name": "AILE-TV" },
+   { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio", "name": "TVradio" },
+   { "url": "https://epg.pw/test_channels.m3u", "name": "epg.pw 中国地区可观看" },
+   { "url": "https://epg.pw/test_channels_banned_cn.m3u", "name": "epg.pw 海外地区可观看" },
+   { "url": "https://epg.pw/test_channels_unknown.m3u", "name": "epg.pw 未添加EPG的大杂烩直播源" },
+   { "url": "https://epg.pw/test_channel_page.html?lang=zh-hant", "name": "epg.pw 直播源按分类列表" },
 
-   { "url": "https://epg.112114.xyz/pp.xml": "name": "EPG 节目单1" },
-   { "url": "http://epg.51zmt.top:8000/e.xml": "name": "EPG 节目单2" },
-   { "url": "http://epg.aptvapp.com/xml": "name": "EPG 节目单3" },
-   { "url": "https://epg.pw/xmltv.html?lang=zh-hant": "name": "EPG 节目单4" }
+   { "url": "https://epg.112114.xyz/pp.xml", "name": "EPG 节目单1" },
+   { "url": "http://epg.51zmt.top:8000/e.xml", "name": "EPG 节目单2" },
+   { "url": "http://epg.aptvapp.com/xml", "name": "EPG 节目单3" },
+   { "url": "https://epg.pw/xmltv.html?lang=zh-hant", "name": "EPG 节目单4" }
   ]
 }
