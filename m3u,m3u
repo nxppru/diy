@@ -1,77 +1,59 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="Ftindy精选" tvg-logo="https://live.fanmingming.com/tv/Ftindy精选.png",Ftindy精选
-undefined
-#EXTINF:-1 tvg-name="https://live.goodiptv.club/api/getlive.php    推荐直播源" tvg-logo="https://live.fanmingming.com/tv/https://live.goodiptv.club/api/getlive.php    推荐直播源.png",https://live.goodiptv.club/api/getlive.php    推荐直播源
-undefined
-#EXTINF:-1 tvg-name="https://live.freetv.top/huyayqk.m3u    虎牙一起看" tvg-logo="https://live.fanmingming.com/tv/https://live.freetv.top/huyayqk.m3u    虎牙一起看.png",https://live.freetv.top/huyayqk.m3u    虎牙一起看
-undefined
-#EXTINF:-1 tvg-name="https://live.freetv.top/douyuyqk.m3u    斗鱼一起看" tvg-logo="https://live.fanmingming.com/tv/https://live.freetv.top/douyuyqk.m3u    斗鱼一起看.png",https://live.freetv.top/douyuyqk.m3u    斗鱼一起看
-undefined
-#EXTINF:-1 tvg-name="https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top    YY轮播" tvg-logo="https://live.fanmingming.com/tv/https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top    YY轮播.png",https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top    YY轮播
-undefined
-#EXTINF:-1 tvg-name="https://www.goodiptv.club/bililive.m3u    BiliBili直播" tvg-logo="https://live.fanmingming.com/tv/https://www.goodiptv.club/bililive.m3u    BiliBili直播.png",https://www.goodiptv.club/bililive.m3u    BiliBili直播
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u    精选IPV6源" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u    精选IPV6源.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u    精选IPV6源
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u    4K/8K源" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u    4K/8K源.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u    4K/8K源
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u    YQGD源" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u    YQGD源.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u    YQGD源
-undefined
-#EXTINF:-1 tvg-name="BigBigGrandG" tvg-logo="https://live.fanmingming.com/tv/BigBigGrandG.png",BigBigGrandG
-undefined
-#EXTINF:-1 tvg-name="https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u    BigBigGrandG源" tvg-logo="https://live.fanmingming.com/tv/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u    BigBigGrandG源.png",https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u    BigBigGrandG源
-undefined
-#EXTINF:-1 tvg-name="APTV" tvg-logo="https://live.fanmingming.com/tv/APTV.png",APTV
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u    APTV IPv6" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u    APTV IPv6.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u    APTV IPv6
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u    APTV 回放测试源" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u    APTV 回放测试源.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u    APTV 回放测试源
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u    APTV 虎牙" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u    APTV 虎牙.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u    APTV 虎牙
-undefined
-#EXTINF:-1 tvg-name="YanG" tvg-logo="https://live.fanmingming.com/tv/YanG.png",YanG
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u    YanG Gather" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u    YanG Gather.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u    YanG Gather
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u    YanG 斗鱼" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u    YanG 斗鱼.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u    YanG 斗鱼
-undefined
-#EXTINF:-1 tvg-name="Meroser" tvg-logo="https://live.fanmingming.com/tv/Meroser.png",Meroser
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u    Meroser精选IPV6源" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u    Meroser精选IPV6源.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u    Meroser精选IPV6源
-undefined
-#EXTINF:-1 tvg-name="YueChan" tvg-logo="https://live.fanmingming.com/tv/YueChan.png",YueChan
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u    YueChan IPv6" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u    YueChan IPv6.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u    YueChan IPv6
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u    YueChan Radio" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u    YueChan Radio.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u    YueChan Radio
-undefined
-#EXTINF:-1 tvg-name="whpsky" tvg-logo="https://live.fanmingming.com/tv/whpsky.png",whpsky
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u    whpsky-IPV6" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u    whpsky-IPV6.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u    whpsky-IPV6
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u    whpsky-ChinaTVM3u" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u    whpsky-ChinaTVM3u.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u    whpsky-ChinaTVM3u
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt    whpsky-ChinaTVTxt" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt    whpsky-ChinaTVTxt.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt    whpsky-ChinaTVTxt
-undefined
-#EXTINF:-1 tvg-name="zbefine" tvg-logo="https://live.fanmingming.com/tv/zbefine.png",zbefine
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u    zbefine-m3u" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u    zbefine-m3u.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u    zbefine-m3u
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt    zbefine-txt" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt    zbefine-txt.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt    zbefine-txt
-undefined
-#EXTINF:-1 tvg-name="其他大神" tvg-logo="https://live.fanmingming.com/tv/其他大神.png",其他大神
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U    茶客" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U    茶客.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U    茶客
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt    乌云" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt    乌云.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt    乌云
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u    AILE-TV" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u    AILE-TV.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u    AILE-TV
-undefined
-#EXTINF:-1 tvg-name="https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio    TVradio" tvg-logo="https://live.fanmingming.com/tv/https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio    TVradio.png",https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio    TVradio
-undefined
-#EXTINF:-1 tvg-name="https://epg.pw/test_channels.m3u    epg.pw 中国地区可观看" tvg-logo="https://live.fanmingming.com/tv/https://epg.pw/test_channels.m3u    epg.pw 中国地区可观看.png",https://epg.pw/test_channels.m3u    epg.pw 中国地区可观看
-undefined
-#EXTINF:-1 tvg-name="https://epg.pw/test_channels_banned_cn.m3u    epg.pw 海外地区可观看" tvg-logo="https://live.fanmingming.com/tv/https://epg.pw/test_channels_banned_cn.m3u    epg.pw 海外地区可观看.png",https://epg.pw/test_channels_banned_cn.m3u    epg.pw 海外地区可观看
-undefined
-#EXTINF:-1 tvg-name="https://epg.pw/test_channels_unknown.m3u    epg.pw 未添加EPG的大杂烩直播源" tvg-logo="https://live.fanmingming.com/tv/https://epg.pw/test_channels_unknown.m3u    epg.pw 未添加EPG的大杂烩直播源.png",https://epg.pw/test_channels_unknown.m3u    epg.pw 未添加EPG的大杂烩直播源
-undefined
+#EXTINF:-1 tvg-name="推荐直播源" tvg-logo="https://live.fanmingming.com/tv/推荐直播源.png",推荐直播源
+https://live.goodiptv.club/api/getlive.php
+#EXTINF:-1 tvg-name="虎牙一起看" tvg-logo="https://live.fanmingming.com/tv/虎牙一起看.png",虎牙一起看
+https://live.freetv.top/huyayqk.m3u
+#EXTINF:-1 tvg-name="斗鱼一起看" tvg-logo="https://live.fanmingming.com/tv/斗鱼一起看.png",斗鱼一起看
+https://live.freetv.top/douyuyqk.m3u
+#EXTINF:-1 tvg-name="YY轮播" tvg-logo="https://live.fanmingming.com/tv/YY轮播.png",YY轮播
+https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top
+#EXTINF:-1 tvg-name="BiliBili直播" tvg-logo="https://live.fanmingming.com/tv/BiliBili直播.png",BiliBili直播
+https://www.goodiptv.club/bililive.m3u
+#EXTINF:-1 tvg-name="精选IPV6源" tvg-logo="https://live.fanmingming.com/tv/精选IPV6源.png",精选IPV6源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
+#EXTINF:-1 tvg-name="4K/8K源" tvg-logo="https://live.fanmingming.com/tv/4K/8K源.png",4K/8K源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
+#EXTINF:-1 tvg-name="YQGD源" tvg-logo="https://live.fanmingming.com/tv/YQGD源.png",YQGD源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
+#EXTINF:-1 tvg-name="BigBigGrandG源" tvg-logo="https://live.fanmingming.com/tv/BigBigGrandG源.png",BigBigGrandG源
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+#EXTINF:-1 tvg-name="APTV IPv6" tvg-logo="https://live.fanmingming.com/tv/APTV IPv6.png",APTV IPv6
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+#EXTINF:-1 tvg-name="APTV 回放测试源" tvg-logo="https://live.fanmingming.com/tv/APTV 回放测试源.png",APTV 回放测试源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
+#EXTINF:-1 tvg-name="APTV 虎牙" tvg-logo="https://live.fanmingming.com/tv/APTV 虎牙.png",APTV 虎牙
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
+#EXTINF:-1 tvg-name="YanG Gather" tvg-logo="https://live.fanmingming.com/tv/YanG Gather.png",YanG Gather
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+#EXTINF:-1 tvg-name="YanG 斗鱼" tvg-logo="https://live.fanmingming.com/tv/YanG 斗鱼.png",YanG 斗鱼
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
+#EXTINF:-1 tvg-name="Meroser精选IPV6源" tvg-logo="https://live.fanmingming.com/tv/Meroser精选IPV6源.png",Meroser精选IPV6源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
+#EXTINF:-1 tvg-name="YueChan IPv6" tvg-logo="https://live.fanmingming.com/tv/YueChan IPv6.png",YueChan IPv6
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+#EXTINF:-1 tvg-name="YueChan Radio" tvg-logo="https://live.fanmingming.com/tv/YueChan Radio.png",YueChan Radio
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+#EXTINF:-1 tvg-name="whpsky-IPV6" tvg-logo="https://live.fanmingming.com/tv/whpsky-IPV6.png",whpsky-IPV6
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u
+#EXTINF:-1 tvg-name="whpsky-ChinaTVM3u" tvg-logo="https://live.fanmingming.com/tv/whpsky-ChinaTVM3u.png",whpsky-ChinaTVM3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
+#EXTINF:-1 tvg-name="whpsky-ChinaTVTxt" tvg-logo="https://live.fanmingming.com/tv/whpsky-ChinaTVTxt.png",whpsky-ChinaTVTxt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
+#EXTINF:-1 tvg-name="zbefine-m3u" tvg-logo="https://live.fanmingming.com/tv/zbefine-m3u.png",zbefine-m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+#EXTINF:-1 tvg-name="zbefine-txt" tvg-logo="https://live.fanmingming.com/tv/zbefine-txt.png",zbefine-txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+#EXTINF:-1 tvg-name="茶客" tvg-logo="https://live.fanmingming.com/tv/茶客.png",茶客
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+#EXTINF:-1 tvg-name="乌云" tvg-logo="https://live.fanmingming.com/tv/乌云.png",乌云
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
+#EXTINF:-1 tvg-name="AILE-TV" tvg-logo="https://live.fanmingming.com/tv/AILE-TV.png",AILE-TV
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u
+#EXTINF:-1 tvg-name="TVradio" tvg-logo="https://live.fanmingming.com/tv/TVradio.png",TVradio
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
+#EXTINF:-1 tvg-name="中国地区可观看" tvg-logo="https://live.fanmingming.com/tv/中国地区可观看.png",中国地区可观看
+https://epg.pw/test_channels.m3u
+#EXTINF:-1 tvg-name="海外地区可观看" tvg-logo="https://live.fanmingming.com/tv/海外地区可观看.png",海外地区可观看
+https://epg.pw/test_channels_banned_cn.m3u
+#EXTINF:-1 tvg-name="未添加EPG的大杂烩直播源" tvg-logo="https://live.fanmingming.com/tv/未添加EPG的大杂烩直播源.png",未添加EPG的大杂烩直播源
+https://epg.pw/test_channels_unknown.m3u
